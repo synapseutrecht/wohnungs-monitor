@@ -10,7 +10,7 @@ concurrency:
 jobs:
   check:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -23,7 +23,7 @@ jobs:
       - run: |
           git config user.name "monitor-bot"
           git config user.email "monitor-bot@users.noreply.github.com"
-          git add state.json
+          git add state.json funde.md
           git diff --cached --quiet && exit 0
           git commit -m "Monitor-Stand aktualisiert"
           git pull --rebase
