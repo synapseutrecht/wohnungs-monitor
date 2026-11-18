@@ -1,0 +1,30 @@
+name: wohnungs-monitor
+on:
+  schedule:
+    - cron: "*/10 6-21 * * *"   # alle 10 Min., 7:00-22:50 Uhr Amsterdam (Winterzeit)
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: wohnungs-monitor
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests beautifulsoup4
+      - run: python monitor.py
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+      - run: |
+          git config user.name "monitor-bot"
+          git config user.email "monitor-bot@users.noreply.github.com"
+          git add state.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Monitor-Stand aktualisiert"
+          git pull --rebase
+          git push
