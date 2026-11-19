@@ -138,6 +138,7 @@
   "https://www.nieuwbouw-in-utrecht.nl/project/10463/wonderwoods",
   "https://www.nieuwbouw-in-utrecht.nl/project/16178/brennerbaan",
   "https://www.nieuwbouw-in-utrecht.nl/project/18176/legends",
+  "https://www.nieuwbouw-in-utrecht.nl/project/18601/samara",
   "https://www.nieuwbouw-in-utrecht.nl/project/18602/cab-wonen",
   "https://www.nieuwbouw-in-utrecht.nl/project/18674/huren-in-cartesius",
   "https://www.nieuwbouw-in-utrecht.nl/project/9875/galaxy-tower"
@@ -171,7 +172,9 @@
   "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-677521-weerdsingel-oz-51d",
   "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-677538-werner-helmichstraat-149c",
   "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-677655-parkzichtlaan-29",
-  "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-677763-justus-van-effenstraat-34d"
+  "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-677763-justus-van-effenstraat-34d",
+  "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-677922-westerdijk-36",
+  "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-677928-oudegracht-127-1"
  ],
  "Vesteda Utrecht": [
   "0 Houses",
@@ -277,6 +280,14 @@
  },
  "_funde": [
   {
+   "facts": "Miete ? · ? m² · Zi. ?",
+   "label": "Samara 18601",
+   "source": "Neubau-Mietprojekte",
+   "url": "https://www.nieuwbouw-in-utrecht.nl/project/18601/samara",
+   "verdict": "unklar",
+   "when": "19.11. 23:46"
+  },
+  {
    "facts": "1.050 € · 38 m² · 2 Zi.",
    "label": "Leuk 2 Kamer Appartement te Huur in Centrum",
    "source": "Van der Huizen",
@@ -380,7 +391,7 @@
   },
   "Neubau-Mietprojekte": {
    "empty": 0,
-   "fails": 1
+   "fails": 0
   },
   "Rotsvast": {
    "empty": 0,
