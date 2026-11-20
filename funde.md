@@ -4,6 +4,9 @@ Automatisch erzeugt. Kriterien: Kaltmiete bis 1231 €, mindestens 1 Schlafzimme
 
 | Gefunden | Urteil | Miete · Fläche · Zimmer | Wohnung | Quelle |
 | --- | --- | --- | --- | --- |
+| 20.11. 16:08 | nein: zu teuer | 2.600 € · 87 m² · 2 SZ | [Vredenburg](https://www.rotsvast.nl/en/huren/vredenburg-utrecht-h01602467720) | Rotsvast |
+| 20.11. 16:08 | nein: zu teuer | 2.595 € · 111 m² · 2 SZ | [Voorsterbeeklaan 68](https://www.bnsrentalservice.nl/en/listings/utrecht/voorsterbeeklaan-68/6b003c2b3d84d31a093971f7) | B&S Rental Service |
+| 20.11. 16:08 | nein: zu teuer | 1.504 € · 49 m² · 2 SZ | [18 Jagerskade 12](https://ikwilhuren.nu/object/utrecht-3552tl-12-18-jagerskade-bbbbb1cfcceb780b72e977c015140b28) | MVGM ikwilhuren |
 | 19.11. 23:46 | unklar | Miete ? · ? m² · Zi. ? | [Samara 18601](https://www.nieuwbouw-in-utrecht.nl/project/18601/samara) | Neubau-Mietprojekte |
 | 19.11. 16:31 | passt | 1.050 € · 38 m² · 2 Zi. | [Leuk 2 Kamer Appartement te Huur in Centrum](https://www.vanderhuizen.com/huurwoningen/appartement-2-kamer/te-huur/utrecht-1/leuk-2-kamer-appartement-te-huur-in-centrum-utrecht) | Van der Huizen |
 | 19.11. 16:30 | nein: kein Schlafzimmer | 667 € · 22 m² · 1 Zi. | [Willem Barentszstraat](https://www.rotsvast.nl/en/huren/willem-barentszstraat-utrecht-h01602467375) | Rotsvast |
