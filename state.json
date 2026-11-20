@@ -146,6 +146,7 @@
   "https://www.nieuwbouw-in-utrecht.nl/project/9875/galaxy-tower"
  ],
  "Rotsvast": [
+  "https://www.rotsvast.nl/en/huren/burgemeester-reigerstraat-utrecht-h01601238",
   "https://www.rotsvast.nl/en/huren/rooseveltlaan-utrecht-h01602467916",
   "https://www.rotsvast.nl/en/huren/vredenburg-utrecht-h01602467720",
   "https://www.rotsvast.nl/en/huren/willem-barentszstraat-utrecht-h01602467375"
@@ -177,7 +178,8 @@
   "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-677655-parkzichtlaan-29",
   "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-677763-justus-van-effenstraat-34d",
   "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-677922-westerdijk-36",
-  "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-677928-oudegracht-127-1"
+  "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-677928-oudegracht-127-1",
+  "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-678204-voorsterbeeklaan-68"
  ],
  "Vesteda Utrecht": [
   "0 Houses",
@@ -281,9 +283,17 @@
   "81 korenschoofstraat": "2026-11-19",
   "834 livingstonelaan": "2026-11-20",
   "90 c madridstraat": "2026-11-20",
-  "9875 galaxy tower": "2026-11-19"
+  "9875 galaxy tower": "2026-11-20"
  },
  "_funde": [
+  {
+   "facts": "2.300 € · 72 m² · 2 SZ",
+   "label": "Burgemeester Reigerstraat",
+   "source": "Rotsvast",
+   "url": "https://www.rotsvast.nl/en/huren/burgemeester-reigerstraat-utrecht-h01601238",
+   "verdict": "nein: zu teuer",
+   "when": "20.11. 23:15"
+  },
   {
    "facts": "2.600 € · 87 m² · 2 SZ",
    "label": "Vredenburg",
@@ -383,7 +393,7 @@
    "fails": 0
   },
   "Cartesius CAB/Samara": {
-   "empty": 1,
+   "empty": 0,
    "fails": 0
   },
   "Cartesius Carmen": {
@@ -395,7 +405,7 @@
    "fails": 0
   },
   "HouseHunting": {
-   "empty": 0,
+   "empty": 1,
    "fails": 0
   },
   "Interhouse Utrecht": {
@@ -420,7 +430,7 @@
   },
   "Neubau-Mietprojekte": {
    "empty": 0,
-   "fails": 1
+   "fails": 0
   },
   "Rotsvast": {
    "empty": 0,
