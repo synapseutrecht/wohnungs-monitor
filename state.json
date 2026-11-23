@@ -8,6 +8,7 @@
   "https://www.123wonen.nl/huur/utrecht/flat+galerij-portiek/jo+w%c3%bcthrichlaan-1921-25",
   "https://www.123wonen.nl/huur/utrecht/flat+galerij-portiek/smaragdplein-1924-25",
   "https://www.123wonen.nl/huur/utrecht/hoekwoning/dwarsligger-1915-25",
+  "https://www.123wonen.nl/huur/utrecht/tussenwoning/2e+daalsedijk-1917-25",
   "https://www.123wonen.nl/huur/utrecht/tussenwoning/klaverstraat-1928-25"
  ],
  "365 Makelaardij": [
@@ -16,6 +17,7 @@
  ],
  "B&S Rental Service": [
   "https://www.bnsrentalservice.nl/en/listings/utrecht/kapelstraat-66/6af5940c0e8818f2d5a5c4cd",
+  "https://www.bnsrentalservice.nl/en/listings/utrecht/londenstraat-40/6adb441bbce7f1ad7f3ed0eb",
   "https://www.bnsrentalservice.nl/en/listings/utrecht/madridstraat-90-c/6afece8d3d84d31a0955c03a",
   "https://www.bnsrentalservice.nl/en/listings/utrecht/oudegracht-127-1/6aff06ca3d84d31a0978c7c5",
   "https://www.bnsrentalservice.nl/en/listings/utrecht/parkzichtlaan-29/6afd992b630610d30086fcd1",
@@ -69,6 +71,7 @@
   "https://interhouse.nl/en/vastgoed/huur/utrecht/appartement/catharijnesingel",
   "https://interhouse.nl/en/vastgoed/huur/utrecht/appartement/celebesstraat",
   "https://interhouse.nl/en/vastgoed/huur/utrecht/appartement/hogelanden-w-z",
+  "https://interhouse.nl/en/vastgoed/huur/utrecht/appartement/parijsboulevard",
   "https://interhouse.nl/en/vastgoed/huur/utrecht/appartement/westerdijk"
  ],
  "MVGM ikwilhuren": [
@@ -77,6 +80,7 @@
   "https://ikwilhuren.nu/object/utrecht-3521ah-291-van-sijpesteijnkade-31a21d404c9d75bf257764a4c6b7901b",
   "https://ikwilhuren.nu/object/utrecht-3533cz-24-shakespearehof-f08f29b71c24079ba6b5a9973fee544c",
   "https://ikwilhuren.nu/object/utrecht-3543ec-325-musicallaan-8d271c992501edcd70bbb1cc62e4698f",
+  "https://ikwilhuren.nu/object/utrecht-3544db-355-vuurvlindersingel-b5b57961ba2e14f3db08fee97db1bd0f",
   "https://ikwilhuren.nu/object/utrecht-3552tl-12-18-jagerskade-bbbbb1cfcceb780b72e977c015140b28",
   "https://ikwilhuren.nu/object/utrecht-3554bt-38-cornelis-roobolstraat-4b442abcbfaa8f5182f8de6c087c1a2b",
   "https://ikwilhuren.nu/object/utrecht-3571jl-325-eykmanlaan-55b80e01f75c161fab073c8bdcc19e7a",
@@ -181,7 +185,9 @@
   "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-677928-oudegracht-127-1",
   "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-678204-voorsterbeeklaan-68",
   "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-678381-oudekamp-2",
-  "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-678402-burgemeester-reigerstraat-34"
+  "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-678402-burgemeester-reigerstraat-34",
+  "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-678587-londenstraat-40",
+  "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-678700-dirck-van-zuylenstraat-7"
  ],
  "Vesteda Utrecht": [
   "0 Houses",
@@ -192,10 +198,12 @@
   "You have not added any houses to subscribe too. Log in at Huren bij Vesteda to view earlier subscriptions",
   "€ 1415",
   "€ 1680",
+  "€ 1730",
   "€ 1730 - € 1805"
  ],
  "Your-House": [
   "https://your-house.nl/woningaanbod/huur/utrecht/c-van-maasdijkstraat/78-2",
+  "https://your-house.nl/woningaanbod/huur/utrecht/dirck-van-zuylenstraat/7",
   "https://your-house.nl/woningaanbod/huur/utrecht/jan-van-scorelstraat/164",
   "https://your-house.nl/woningaanbod/huur/utrecht/justus-van-effenstraat/34-d",
   "https://your-house.nl/woningaanbod/huur/utrecht/jutfaseweg/ref-02627",
@@ -234,6 +242,7 @@
   "181 2 eerste muntmeesterslaan": "2026-11-23",
   "19 386 oudenoord": "2026-11-23",
   "1915 25 dwarsligger": "2026-11-23",
+  "1917 2 25 daalsedijk e": "2026-11-23",
   "1921 25 jo wüthrichlaan": "2026-11-23",
   "1923 25 ireneplateau prinses": "2026-11-23",
   "1924 25 smaragdplein": "2026-11-23",
@@ -268,10 +277,12 @@
   "34 burgemeester reigerstraat": "2026-11-23",
   "34 d effenstraat justus": "2026-11-23",
   "35 adolf b mayerlaan professor": "2026-11-23",
+  "355 vuurvlindersingel": "2026-11-23",
   "36 westerdijk": "2026-11-23",
   "38 adelboldstraat": "2026-11-23",
   "38 cornelis roobolstraat": "2026-11-19",
   "4 d lange viestraat": "2026-11-23",
+  "40 londenstraat": "2026-11-23",
   "43 muntmeesterslaan tweede": "2026-11-19",
   "5 jansdam": "2026-11-19",
   "51 d weerdsingel": "2026-11-23",
@@ -282,14 +293,63 @@
   "62 haflingerstraat": "2026-11-19",
   "66 kapelstraat": "2026-11-20",
   "68 voorsterbeeklaan": "2026-11-23",
+  "7 dirck zuylenstraat": "2026-11-23",
   "752 rooseveltlaan": "2026-11-23",
   "8 bs vlietstraat": "2026-11-19",
   "81 korenschoofstraat": "2026-11-19",
   "834 livingstonelaan": "2026-11-23",
   "90 c madridstraat": "2026-11-23",
-  "9875 galaxy tower": "2026-11-22"
+  "9875 galaxy tower": "2026-11-23"
  },
  "_funde": [
+  {
+   "facts": "–",
+   "label": "€ 1730",
+   "source": "Vesteda Utrecht",
+   "url": "https://www.vesteda.com/en/utrecht-houses-for-rent",
+   "verdict": "Projekt",
+   "when": "23.11. 18:45"
+  },
+  {
+   "facts": "2.295 € · 90 m² · 2 SZ",
+   "label": "Parijsboulevard",
+   "source": "Interhouse Utrecht",
+   "url": "https://interhouse.nl/en/vastgoed/huur/utrecht/appartement/parijsboulevard",
+   "verdict": "nein: zu teuer",
+   "when": "23.11. 18:45"
+  },
+  {
+   "facts": "2.100 € · 87 m² · 2 SZ",
+   "label": "2e Daalsedijk",
+   "source": "123Wonen",
+   "url": "https://www.123wonen.nl/huur/utrecht/tussenwoning/2e+daalsedijk-1917-25",
+   "verdict": "nein: zu teuer",
+   "when": "23.11. 18:45"
+  },
+  {
+   "facts": "2.178 € · 109 m² · 2 SZ",
+   "label": "Vuurvlindersingel 355",
+   "source": "MVGM ikwilhuren",
+   "url": "https://ikwilhuren.nu/object/utrecht-3544db-355-vuurvlindersingel-b5b57961ba2e14f3db08fee97db1bd0f",
+   "verdict": "nein: zu teuer",
+   "when": "23.11. 18:45"
+  },
+  {
+   "facts": "2.495 € · 65 m² · 2 SZ",
+   "label": "Dirck van Zuylenstraat 7",
+   "source": "Vastgoed Nederland",
+   "url": "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-678700-dirck-van-zuylenstraat-7",
+   "verdict": "nein: zu teuer",
+   "when": "23.11. 18:45"
+  },
+  {
+   "facts": "2.150 € · 64 m² · 2 SZ",
+   "label": "Londenstraat 40",
+   "source": "Vastgoed Nederland",
+   "url": "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-678587-londenstraat-40",
+   "verdict": "nein: zu teuer",
+   "when": "23.11. 18:45"
+  },
   {
    "facts": "2.300 € · 72 m² · 2 SZ",
    "label": "Burgemeester Reigerstraat 34",
@@ -425,7 +485,7 @@
    "fails": 0
   },
   "HouseHunting": {
-   "empty": 7,
+   "empty": 8,
    "fails": 0
   },
   "Interhouse Utrecht": {
@@ -450,10 +510,10 @@
   },
   "Neubau-Mietprojekte": {
    "empty": 0,
-   "fails": 1
+   "fails": 0
   },
   "Rotsvast": {
-   "empty": 0,
+   "empty": 1,
    "fails": 0
   },
   "Van der Huizen": {

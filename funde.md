@@ -4,6 +4,12 @@ Automatisch erzeugt. Kriterien: Kaltmiete bis 1231 €, mindestens 1 Schlafzimme
 
 | Gefunden | Urteil | Miete · Fläche · Zimmer | Wohnung | Quelle |
 | --- | --- | --- | --- | --- |
+| 23.11. 18:45 | Projekt | – | [€ 1730](https://www.vesteda.com/en/utrecht-houses-for-rent) | Vesteda Utrecht |
+| 23.11. 18:45 | nein: zu teuer | 2.295 € · 90 m² · 2 SZ | [Parijsboulevard](https://interhouse.nl/en/vastgoed/huur/utrecht/appartement/parijsboulevard) | Interhouse Utrecht |
+| 23.11. 18:45 | nein: zu teuer | 2.100 € · 87 m² · 2 SZ | [2e Daalsedijk](https://www.123wonen.nl/huur/utrecht/tussenwoning/2e+daalsedijk-1917-25) | 123Wonen |
+| 23.11. 18:45 | nein: zu teuer | 2.178 € · 109 m² · 2 SZ | [Vuurvlindersingel 355](https://ikwilhuren.nu/object/utrecht-3544db-355-vuurvlindersingel-b5b57961ba2e14f3db08fee97db1bd0f) | MVGM ikwilhuren |
+| 23.11. 18:45 | nein: zu teuer | 2.495 € · 65 m² · 2 SZ | [Dirck van Zuylenstraat 7](https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-678700-dirck-van-zuylenstraat-7) | Vastgoed Nederland |
+| 23.11. 18:45 | nein: zu teuer | 2.150 € · 64 m² · 2 SZ | [Londenstraat 40](https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-678587-londenstraat-40) | Vastgoed Nederland |
 | 21.11. 15:27 | nein: zu teuer | 2.300 € · 72 m² · 2 SZ | [Burgemeester Reigerstraat 34](https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-678402-burgemeester-reigerstraat-34) | Vastgoed Nederland |
 | 21.11. 15:27 | nein: zu teuer | 1.975 € · 55 m² · 1 SZ | [Oudekamp 2](https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-678381-oudekamp-2) | Vastgoed Nederland |
 | 20.11. 23:15 | nein: zu teuer | 2.300 € · 72 m² · 2 SZ | [Burgemeester Reigerstraat](https://www.rotsvast.nl/en/huren/burgemeester-reigerstraat-utrecht-h01601238) | Rotsvast |
