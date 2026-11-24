@@ -4,6 +4,14 @@ Automatisch erzeugt. Kriterien: Kaltmiete bis 1231 €, mindestens 1 Schlafzimme
 
 | Gefunden | Urteil | Miete · Fläche · Zimmer | Wohnung | Quelle |
 | --- | --- | --- | --- | --- |
+| 24.11. 18:17 | nein: zu teuer | 2.490 € · 72 m² · 2 SZ | [Houttuinen 66 D](https://365makelaardij.nl/en/wonen/houttuinen-66-d) | 365 Makelaardij |
+| 24.11. 18:17 | nein: zu teuer | 2.595 € · 89 m² · 2 SZ | [Lange Nieuwstraat 87 H](https://www.beumer.nl/wonen/object/lange-nieuwstraat-87-h-utrecht) | Beumer |
+| 24.11. 18:17 | nein: zu teuer | 2.780 € · 94 m² · 1 SZ | [Perronlaan 230](https://your-house.nl/woningaanbod/huur/utrecht/perronlaan/230) | Your-House |
+| 24.11. 18:17 | nein: zu teuer | 2.295 € · 78 m² · 2 SZ | [Eschersingel 62](https://your-house.nl/woningaanbod/huur/utrecht/eschersingel/62) | Your-House |
+| 24.11. 18:17 | nein: zu teuer | 1.895 € · 67 m² · 1 SZ | [St. Janshovenstraat 2 D](https://www.bnsrentalservice.nl/en/listings/utrecht/st.-janshovenstraat-2-d/6b05822b8998d0f682394ed2) | B&S Rental Service |
+| 24.11. 18:17 | nein: zu teuer | 2.075 € · 73 m² · 1 SZ | [Laan van Chartroise](https://househunting.nl/en/woningaanbod/d6c08bc4-d2e1-4071-9032-14d4ac8aa9fa-laan-van-chartroise-utrecht-2) | HouseHunting |
+| 24.11. 18:17 | nein: zu teuer | 1.364 € · 50 m² · 1 SZ | [Vinkenburgstraat 70](https://ikwilhuren.nu/object/utrecht-3512ab-70-vinkenburgstraat-cf99bcca79d9c6187efde2709917f308) | MVGM ikwilhuren |
+| 24.11. 18:16 | nein: zu teuer | 1.895 € · 67 m² · 1 SZ | [St Janshovenstraat 2](https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-678814-st-janshovenstraat-2) | Vastgoed Nederland |
 | 24.11. 04:30 | nein: kein Schlafzimmer | 1.000 € · 24 m² · 1 Zi. | [Nette Studio te Huur Nabij Wilhelminapark 2](https://www.vanderhuizen.com/huurwoningen/studio/te-huur/utrecht-1/nette-studio-te-huur-nabij-wilhelminapark-2) | Van der Huizen |
 | 23.11. 18:45 | Projekt | – | [€ 1730](https://www.vesteda.com/en/utrecht-houses-for-rent) | Vesteda Utrecht |
 | 23.11. 18:45 | nein: zu teuer | 2.295 € · 90 m² · 2 SZ | [Parijsboulevard](https://interhouse.nl/en/vastgoed/huur/utrecht/appartement/parijsboulevard) | Interhouse Utrecht |
