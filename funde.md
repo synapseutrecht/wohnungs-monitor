@@ -4,6 +4,7 @@ Automatisch erzeugt. Kriterien: Kaltmiete bis 1231 €, mindestens 1 Schlafzimme
 
 | Gefunden | Urteil | Miete · Fläche · Zimmer | Wohnung | Quelle |
 | --- | --- | --- | --- | --- |
+| 24.11. 04:30 | nein: kein Schlafzimmer | 1.000 € · 24 m² · 1 Zi. | [Nette Studio te Huur Nabij Wilhelminapark 2](https://www.vanderhuizen.com/huurwoningen/studio/te-huur/utrecht-1/nette-studio-te-huur-nabij-wilhelminapark-2) | Van der Huizen |
 | 23.11. 18:45 | Projekt | – | [€ 1730](https://www.vesteda.com/en/utrecht-houses-for-rent) | Vesteda Utrecht |
 | 23.11. 18:45 | nein: zu teuer | 2.295 € · 90 m² · 2 SZ | [Parijsboulevard](https://interhouse.nl/en/vastgoed/huur/utrecht/appartement/parijsboulevard) | Interhouse Utrecht |
 | 23.11. 18:45 | nein: zu teuer | 2.100 € · 87 m² · 2 SZ | [2e Daalsedijk](https://www.123wonen.nl/huur/utrecht/tussenwoning/2e+daalsedijk-1917-25) | 123Wonen |
