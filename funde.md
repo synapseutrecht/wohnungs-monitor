@@ -4,6 +4,17 @@ Automatisch erzeugt. Kriterien: Kaltmiete bis 1231 €, mindestens 1 Schlafzimme
 
 | Gefunden | Urteil | Miete · Fläche · Zimmer | Wohnung | Quelle |
 | --- | --- | --- | --- | --- |
+| 25.11. 17:59 | nein: zu teuer | 3.000 € · 110 m² · 2 SZ | [Ref 02503 48](https://your-house.nl/woningaanbod/huur/utrecht/loeff-berchmakerstraat/48-ref-02503) | Your-House |
+| 25.11. 17:59 | nein: zu teuer | 2.250 € · 90 m² · 2 SZ | [Diamantweg 3](https://your-house.nl/woningaanbod/huur/utrecht/diamantweg/3) | Your-House |
+| 25.11. 17:59 | passt | 475 € · 19 m² · 1 SZ | [Damstraat](https://househunting.nl/en/woningaanbod/2be896ef-6827-4df3-88f4-e7c720a18be4-damstraat-utrecht-2) | HouseHunting |
+| 25.11. 17:59 | passt | 941 € · 54 m² · 1 SZ | [Vader Rijndreef 94](https://ikwilhuren.nu/object/utrecht-3561xa-94-vader-rijndreef-e850b3274a9b15fcdfb6622b880c2d64) | MVGM ikwilhuren |
+| 25.11. 17:58 | nein: zu teuer | 1.841 € · 136 m² · 1 SZ | [Lloyd Webberhof 20](https://ikwilhuren.nu/object/utrecht-3543eh-20-lloyd-webberhof-0e0ff8c6d0251ac9aa029f40dd7465b5) | MVGM ikwilhuren |
+| 25.11. 17:58 | nein: zu teuer | 1.902 € · 90 m² · 2 SZ | [Rachmaninoffplantsoen 222](https://ikwilhuren.nu/object/utrecht-3533jz-222-rachmaninoffplantsoen-937faa460edefdd5acd2949a81116ca0) | MVGM ikwilhuren |
+| 25.11. 17:58 | nein: zu teuer | 1.922 € · 75 m² · 2 SZ | [Schonberglaan 195](https://ikwilhuren.nu/object/utrecht-3533jc-195-schonberglaan-b6ee17c63a926f7991fe7545c1baef49) | MVGM ikwilhuren |
+| 25.11. 17:58 | nein: zu teuer | 1.749 € · 71 m² · 2 SZ | [Eelderdiephof 59](https://ikwilhuren.nu/object/utrecht-3521dk-59-eelderdiephof-2a4e8741ada6ef7db10282eedef31bbb) | MVGM ikwilhuren |
+| 25.11. 17:58 | nein: zu teuer | 1.816 € · 81 m² · Zi. ? | [Rolderdiephof 64](https://ikwilhuren.nu/object/utrecht-3521db-64-rolderdiephof-ba822c69b5e725fb04f31b26633c4287) | MVGM ikwilhuren |
+| 25.11. 17:58 | nein: zu teuer | 1.925 € · 68 m² · 1 SZ | [Maliebaan 53h](https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-679199-maliebaan-53h) | Vastgoed Nederland |
+| 25.11. 17:58 | nein: zu teuer | 2.295 € · 90 m² · 3 SZ | [Albatrosstraat 32bs](https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-679155-albatrosstraat-32bs) | Vastgoed Nederland |
 | 25.11. 02:29 | nein: zu teuer | 1.463 € · 39 m² · 1 SZ | [Oudegracht 119 B](https://www.beumer.nl/wonen/object/oudegracht-119-b-utrecht) | Beumer |
 | 24.11. 18:17 | nein: zu teuer | 2.490 € · 72 m² · 2 SZ | [Houttuinen 66 D](https://365makelaardij.nl/en/wonen/houttuinen-66-d) | 365 Makelaardij |
 | 24.11. 18:17 | nein: zu teuer | 2.595 € · 89 m² · 2 SZ | [Lange Nieuwstraat 87 H](https://www.beumer.nl/wonen/object/lange-nieuwstraat-87-h-utrecht) | Beumer |

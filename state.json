@@ -18,6 +18,7 @@
  ],
  "B&S Rental Service": [
   "https://www.bnsrentalservice.nl/en/listings/utrecht/kapelstraat-66/6af5940c0e8818f2d5a5c4cd",
+  "https://www.bnsrentalservice.nl/en/listings/utrecht/kapelstraat-66/6b06efd0b5a086f1643cc8fc",
   "https://www.bnsrentalservice.nl/en/listings/utrecht/londenstraat-40/6adb441bbce7f1ad7f3ed0eb",
   "https://www.bnsrentalservice.nl/en/listings/utrecht/madridstraat-90-c/6afece8d3d84d31a0955c03a",
   "https://www.bnsrentalservice.nl/en/listings/utrecht/oudegracht-127-1/6aff06ca3d84d31a0978c7c5",
@@ -67,6 +68,7 @@
   "https://domvast.nl/woning/utrecht-wageningseberg-260"
  ],
  "HouseHunting": [
+  "https://househunting.nl/en/woningaanbod/2be896ef-6827-4df3-88f4-e7c720a18be4-damstraat-utrecht-2",
   "https://househunting.nl/en/woningaanbod/789c69c7-340b-45f0-a32a-78b14e0426a3-adriaen-van-ostadelaan-utrecht-2",
   "https://househunting.nl/en/woningaanbod/d6c08bc4-d2e1-4071-9032-14d4ac8aa9fa-laan-van-chartroise-utrecht-2",
   "https://househunting.nl/en/woningaanbod/e7ade7a0-855b-48e0-82eb-c492d922a2e7-ella-fitzgeraldplein-utrecht-2"
@@ -84,16 +86,23 @@
   "https://ikwilhuren.nu/object/utrecht-3513de-13-korenschoofstraat-4d4888487a3f07afb6c41f2441400c17",
   "https://ikwilhuren.nu/object/utrecht-3513de-81-korenschoofstraat-740b7aba556923c5f066acd09a8d43c5",
   "https://ikwilhuren.nu/object/utrecht-3521ah-291-van-sijpesteijnkade-31a21d404c9d75bf257764a4c6b7901b",
+  "https://ikwilhuren.nu/object/utrecht-3521db-64-rolderdiephof-ba822c69b5e725fb04f31b26633c4287",
+  "https://ikwilhuren.nu/object/utrecht-3521dk-59-eelderdiephof-2a4e8741ada6ef7db10282eedef31bbb",
   "https://ikwilhuren.nu/object/utrecht-3533cz-24-shakespearehof-f08f29b71c24079ba6b5a9973fee544c",
+  "https://ikwilhuren.nu/object/utrecht-3533jc-195-schonberglaan-b6ee17c63a926f7991fe7545c1baef49",
+  "https://ikwilhuren.nu/object/utrecht-3533jz-222-rachmaninoffplantsoen-937faa460edefdd5acd2949a81116ca0",
   "https://ikwilhuren.nu/object/utrecht-3543ec-325-musicallaan-8d271c992501edcd70bbb1cc62e4698f",
+  "https://ikwilhuren.nu/object/utrecht-3543eh-20-lloyd-webberhof-0e0ff8c6d0251ac9aa029f40dd7465b5",
   "https://ikwilhuren.nu/object/utrecht-3544db-355-vuurvlindersingel-b5b57961ba2e14f3db08fee97db1bd0f",
   "https://ikwilhuren.nu/object/utrecht-3552tl-12-18-jagerskade-bbbbb1cfcceb780b72e977c015140b28",
   "https://ikwilhuren.nu/object/utrecht-3554bt-38-cornelis-roobolstraat-4b442abcbfaa8f5182f8de6c087c1a2b",
+  "https://ikwilhuren.nu/object/utrecht-3561xa-94-vader-rijndreef-e850b3274a9b15fcdfb6622b880c2d64",
   "https://ikwilhuren.nu/object/utrecht-3571jl-325-eykmanlaan-55b80e01f75c161fab073c8bdcc19e7a",
   "https://ikwilhuren.nu/object/utrecht-3573sl-62-haflingerstraat-c17bf88a69e8724374a530b44415676c"
  ],
  "Makelaardij Stek": [
   "https://www.makelaardijstek.nl/woningaanbod/huur/utrecht/achter-clarenburg/59",
+  "https://www.makelaardijstek.nl/woningaanbod/huur/utrecht/maliebaan/53-h",
   "https://www.makelaardijstek.nl/woningaanbod/huur/utrecht/oudwijk/23-bb",
   "https://www.makelaardijstek.nl/woningaanbod/huur/utrecht/oudwijkerveldstraat/1-a",
   "https://www.makelaardijstek.nl/woningaanbod/huur/utrecht/professor-adolf-mayerlaan/35-b",
@@ -195,7 +204,10 @@
   "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-678402-burgemeester-reigerstraat-34",
   "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-678587-londenstraat-40",
   "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-678700-dirck-van-zuylenstraat-7",
-  "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-678814-st-janshovenstraat-2"
+  "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-678814-st-janshovenstraat-2",
+  "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-679155-albatrosstraat-32bs",
+  "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-679163-kapelstraat-66",
+  "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-679199-maliebaan-53h"
  ],
  "Vesteda Utrecht": [
   "0 Houses",
@@ -210,13 +222,16 @@
   "€ 1730 - € 1805"
  ],
  "Your-House": [
+  "https://your-house.nl/woningaanbod/huur/utrecht/albatrosstraat/32-bs",
   "https://your-house.nl/woningaanbod/huur/utrecht/c-van-maasdijkstraat/78-2",
+  "https://your-house.nl/woningaanbod/huur/utrecht/diamantweg/3",
   "https://your-house.nl/woningaanbod/huur/utrecht/dirck-van-zuylenstraat/7",
   "https://your-house.nl/woningaanbod/huur/utrecht/eschersingel/62",
   "https://your-house.nl/woningaanbod/huur/utrecht/jan-van-scorelstraat/164",
   "https://your-house.nl/woningaanbod/huur/utrecht/justus-van-effenstraat/34-d",
   "https://your-house.nl/woningaanbod/huur/utrecht/jutfaseweg/ref-02627",
   "https://your-house.nl/woningaanbod/huur/utrecht/livingstonelaan/834",
+  "https://your-house.nl/woningaanbod/huur/utrecht/loeff-berchmakerstraat/48-ref-02503",
   "https://your-house.nl/woningaanbod/huur/utrecht/oudegracht/29",
   "https://your-house.nl/woningaanbod/huur/utrecht/perronlaan/230",
   "https://your-house.nl/woningaanbod/huur/utrecht/weerdsingel-o-z/51-d",
@@ -224,6 +239,7 @@
   "https://your-house.nl/woningaanbod/huur/utrecht/werner-helmichstraat/149-c"
  ],
  "_addr": {
+  "02503 48 berchmakerstraat loeff ref": "2026-11-25",
   "1 127 oudegracht": "2026-11-25",
   "1 14 laan verzetsstrijders": "2026-11-25",
   "1 2 centrum leuk": "2026-11-25",
@@ -263,6 +279,7 @@
   "1931 25 händelstraat": "2026-11-25",
   "1932 25 vleutenseweg": "2026-11-25",
   "1933 25 busken huetstraat": "2026-11-25",
+  "195 schonberglaan": "2026-11-25",
   "2 242 marnixlaan": "2026-11-25",
   "2 29 c emile hullebroeckstraat": "2026-11-25",
   "2 78 c maasdijkstraat": "2026-11-24",
@@ -272,11 +289,14 @@
   "2 centrum mooi oudegracht": "2026-11-23",
   "2 chartroise laan": "2026-11-25",
   "2 d janshovenstraat st": "2026-11-25",
+  "2 damstraat": "2026-11-25",
   "2 ella fitzgeraldplein": "2026-11-20",
   "2 janshovenstraat st": "2026-11-25",
   "2 oudekamp": "2026-11-25",
   "2 speijkstraat": "2026-11-25",
   "2 wageningseberg": "2026-11-25",
+  "20 lloyd webberhof": "2026-11-25",
+  "222 rachmaninoffplantsoen": "2026-11-25",
   "23 bb oudwijk": "2026-11-25",
   "230 perronlaan": "2026-11-25",
   "24 shakespearehof": "2026-11-19",
@@ -285,7 +305,9 @@
   "29 parkzichtlaan": "2026-11-25",
   "291 sijpesteijnkade": "2026-11-19",
   "3 498 grauwaartsingel": "2026-11-25",
+  "3 diamantweg": "2026-11-25",
   "302 eisenhowerlaan": "2026-11-25",
+  "32 albatrosstraat bs": "2026-11-25",
   "32 b linnaeusstraat": "2026-11-25",
   "325 eykmanlaan": "2026-11-19",
   "325 musicallaan": "2026-11-19",
@@ -304,12 +326,15 @@
   "51 d weerdsingel": "2026-11-25",
   "51 f weerdsingel": "2026-11-25",
   "51 new yorkdreef": "2026-11-25",
+  "53 h maliebaan": "2026-11-25",
   "59 achter clarenburg": "2026-11-25",
+  "59 eelderdiephof": "2026-11-25",
   "62 bachstraat johann sebastian": "2026-11-25",
   "62 eschersingel": "2026-11-25",
   "62 haflingerstraat": "2026-11-19",
+  "64 rolderdiephof": "2026-11-25",
   "66 d houttuinen": "2026-11-25",
-  "66 kapelstraat": "2026-11-20",
+  "66 kapelstraat": "2026-11-25",
   "68 voorsterbeeklaan": "2026-11-25",
   "7 dirck zuylenstraat": "2026-11-25",
   "70 vinkenburgstraat": "2026-11-25",
@@ -319,9 +344,98 @@
   "834 livingstonelaan": "2026-11-25",
   "87 h lange nieuwstraat": "2026-11-25",
   "90 c madridstraat": "2026-11-24",
+  "94 rijndreef vader": "2026-11-25",
   "9875 galaxy tower": "2026-11-25"
  },
  "_funde": [
+  {
+   "facts": "3.000 € · 110 m² · 2 SZ",
+   "label": "Ref 02503 48",
+   "source": "Your-House",
+   "url": "https://your-house.nl/woningaanbod/huur/utrecht/loeff-berchmakerstraat/48-ref-02503",
+   "verdict": "nein: zu teuer",
+   "when": "25.11. 17:59"
+  },
+  {
+   "facts": "2.250 € · 90 m² · 2 SZ",
+   "label": "Diamantweg 3",
+   "source": "Your-House",
+   "url": "https://your-house.nl/woningaanbod/huur/utrecht/diamantweg/3",
+   "verdict": "nein: zu teuer",
+   "when": "25.11. 17:59"
+  },
+  {
+   "facts": "475 € · 19 m² · 1 SZ",
+   "label": "Damstraat",
+   "source": "HouseHunting",
+   "url": "https://househunting.nl/en/woningaanbod/2be896ef-6827-4df3-88f4-e7c720a18be4-damstraat-utrecht-2",
+   "verdict": "passt",
+   "when": "25.11. 17:59"
+  },
+  {
+   "facts": "941 € · 54 m² · 1 SZ",
+   "label": "Vader Rijndreef 94",
+   "source": "MVGM ikwilhuren",
+   "url": "https://ikwilhuren.nu/object/utrecht-3561xa-94-vader-rijndreef-e850b3274a9b15fcdfb6622b880c2d64",
+   "verdict": "passt",
+   "when": "25.11. 17:59"
+  },
+  {
+   "facts": "1.841 € · 136 m² · 1 SZ",
+   "label": "Lloyd Webberhof 20",
+   "source": "MVGM ikwilhuren",
+   "url": "https://ikwilhuren.nu/object/utrecht-3543eh-20-lloyd-webberhof-0e0ff8c6d0251ac9aa029f40dd7465b5",
+   "verdict": "nein: zu teuer",
+   "when": "25.11. 17:58"
+  },
+  {
+   "facts": "1.902 € · 90 m² · 2 SZ",
+   "label": "Rachmaninoffplantsoen 222",
+   "source": "MVGM ikwilhuren",
+   "url": "https://ikwilhuren.nu/object/utrecht-3533jz-222-rachmaninoffplantsoen-937faa460edefdd5acd2949a81116ca0",
+   "verdict": "nein: zu teuer",
+   "when": "25.11. 17:58"
+  },
+  {
+   "facts": "1.922 € · 75 m² · 2 SZ",
+   "label": "Schonberglaan 195",
+   "source": "MVGM ikwilhuren",
+   "url": "https://ikwilhuren.nu/object/utrecht-3533jc-195-schonberglaan-b6ee17c63a926f7991fe7545c1baef49",
+   "verdict": "nein: zu teuer",
+   "when": "25.11. 17:58"
+  },
+  {
+   "facts": "1.749 € · 71 m² · 2 SZ",
+   "label": "Eelderdiephof 59",
+   "source": "MVGM ikwilhuren",
+   "url": "https://ikwilhuren.nu/object/utrecht-3521dk-59-eelderdiephof-2a4e8741ada6ef7db10282eedef31bbb",
+   "verdict": "nein: zu teuer",
+   "when": "25.11. 17:58"
+  },
+  {
+   "facts": "1.816 € · 81 m² · Zi. ?",
+   "label": "Rolderdiephof 64",
+   "source": "MVGM ikwilhuren",
+   "url": "https://ikwilhuren.nu/object/utrecht-3521db-64-rolderdiephof-ba822c69b5e725fb04f31b26633c4287",
+   "verdict": "nein: zu teuer",
+   "when": "25.11. 17:58"
+  },
+  {
+   "facts": "1.925 € · 68 m² · 1 SZ",
+   "label": "Maliebaan 53h",
+   "source": "Vastgoed Nederland",
+   "url": "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-679199-maliebaan-53h",
+   "verdict": "nein: zu teuer",
+   "when": "25.11. 17:58"
+  },
+  {
+   "facts": "2.295 € · 90 m² · 3 SZ",
+   "label": "Albatrosstraat 32bs",
+   "source": "Vastgoed Nederland",
+   "url": "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-679155-albatrosstraat-32bs",
+   "verdict": "nein: zu teuer",
+   "when": "25.11. 17:58"
+  },
   {
    "facts": "1.463 € · 39 m² · 1 SZ",
    "label": "Oudegracht 119 B",
@@ -613,7 +727,7 @@
    "fails": 0
   },
   "Rotsvast": {
-   "empty": 4,
+   "empty": 5,
    "fails": 0
   },
   "Van der Huizen": {
