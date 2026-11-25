@@ -4,6 +4,7 @@ Automatisch erzeugt. Kriterien: Kaltmiete bis 1231 €, mindestens 1 Schlafzimme
 
 | Gefunden | Urteil | Miete · Fläche · Zimmer | Wohnung | Quelle |
 | --- | --- | --- | --- | --- |
+| 25.11. 02:29 | nein: zu teuer | 1.463 € · 39 m² · 1 SZ | [Oudegracht 119 B](https://www.beumer.nl/wonen/object/oudegracht-119-b-utrecht) | Beumer |
 | 24.11. 18:17 | nein: zu teuer | 2.490 € · 72 m² · 2 SZ | [Houttuinen 66 D](https://365makelaardij.nl/en/wonen/houttuinen-66-d) | 365 Makelaardij |
 | 24.11. 18:17 | nein: zu teuer | 2.595 € · 89 m² · 2 SZ | [Lange Nieuwstraat 87 H](https://www.beumer.nl/wonen/object/lange-nieuwstraat-87-h-utrecht) | Beumer |
 | 24.11. 18:17 | nein: zu teuer | 2.780 € · 94 m² · 1 SZ | [Perronlaan 230](https://your-house.nl/woningaanbod/huur/utrecht/perronlaan/230) | Your-House |
