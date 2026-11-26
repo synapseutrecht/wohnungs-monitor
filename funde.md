@@ -4,6 +4,8 @@ Automatisch erzeugt. Kriterien: Kaltmiete bis 1231 €, mindestens 1 Schlafzimme
 
 | Gefunden | Urteil | Miete · Fläche · Zimmer | Wohnung | Quelle |
 | --- | --- | --- | --- | --- |
+| 26.11. 17:40 | Projekt | – | [€ 1415 - € 1535](https://www.vesteda.com/en/utrecht-houses-for-rent) | Vesteda Utrecht |
+| 26.11. 17:39 | nein: zu teuer | 1.614 € · 115 m² · Zi. ? | [Hogeweide 352](https://ikwilhuren.nu/object/utrecht-3544pw-352-hogeweide-9fb56c4c04c5add744bee609ff634963) | MVGM ikwilhuren |
 | 26.11. 01:56 | nein: zu teuer | 2.100 € · 68 m² · 2 SZ | [Royaards van den Hamkade](https://interhouse.nl/en/vastgoed/huur/utrecht/appartement/royaards-van-den-hamkade) | Interhouse Utrecht |
 | 25.11. 17:59 | nein: zu teuer | 3.000 € · 110 m² · 2 SZ | [Ref 02503 48](https://your-house.nl/woningaanbod/huur/utrecht/loeff-berchmakerstraat/48-ref-02503) | Your-House |
 | 25.11. 17:59 | nein: zu teuer | 2.250 € · 90 m² · 2 SZ | [Diamantweg 3](https://your-house.nl/woningaanbod/huur/utrecht/diamantweg/3) | Your-House |

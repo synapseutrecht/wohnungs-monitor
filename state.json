@@ -95,6 +95,7 @@
   "https://ikwilhuren.nu/object/utrecht-3543ec-325-musicallaan-8d271c992501edcd70bbb1cc62e4698f",
   "https://ikwilhuren.nu/object/utrecht-3543eh-20-lloyd-webberhof-0e0ff8c6d0251ac9aa029f40dd7465b5",
   "https://ikwilhuren.nu/object/utrecht-3544db-355-vuurvlindersingel-b5b57961ba2e14f3db08fee97db1bd0f",
+  "https://ikwilhuren.nu/object/utrecht-3544pw-352-hogeweide-9fb56c4c04c5add744bee609ff634963",
   "https://ikwilhuren.nu/object/utrecht-3552tl-12-18-jagerskade-bbbbb1cfcceb780b72e977c015140b28",
   "https://ikwilhuren.nu/object/utrecht-3554bt-38-cornelis-roobolstraat-4b442abcbfaa8f5182f8de6c087c1a2b",
   "https://ikwilhuren.nu/object/utrecht-3561xa-94-vader-rijndreef-e850b3274a9b15fcdfb6622b880c2d64",
@@ -218,6 +219,7 @@
   "Utrecht houses for rent",
   "You have not added any houses to subscribe too. Log in at Huren bij Vesteda to view earlier subscriptions",
   "€ 1415",
+  "€ 1415 - € 1535",
   "€ 1680",
   "€ 1730",
   "€ 1730 - € 1805"
@@ -261,7 +263,7 @@
   "12 18 jagerskade": "2026-11-24",
   "12 a westerdijk": "2026-11-26",
   "12 brigittenstraat": "2026-11-26",
-  "121 eerste muntmeesterslaan": "2026-11-25",
+  "121 eerste muntmeesterslaan": "2026-11-26",
   "13 korenschoofstraat": "2026-11-19",
   "13 zwartewater": "2026-11-26",
   "145 eerste muntmeesterslaan": "2026-11-26",
@@ -316,6 +318,7 @@
   "34 burgemeester reigerstraat": "2026-11-26",
   "34 d effenstraat justus": "2026-11-26",
   "35 adolf b mayerlaan professor": "2026-11-26",
+  "352 hogeweide": "2026-11-26",
   "355 vuurvlindersingel": "2026-11-25",
   "36 westerdijk": "2026-11-26",
   "38 adelboldstraat": "2026-11-26",
@@ -349,6 +352,22 @@
   "9875 galaxy tower": "2026-11-26"
  },
  "_funde": [
+  {
+   "facts": "–",
+   "label": "€ 1415 - € 1535",
+   "source": "Vesteda Utrecht",
+   "url": "https://www.vesteda.com/en/utrecht-houses-for-rent",
+   "verdict": "Projekt",
+   "when": "26.11. 17:40"
+  },
+  {
+   "facts": "1.614 € · 115 m² · Zi. ?",
+   "label": "Hogeweide 352",
+   "source": "MVGM ikwilhuren",
+   "url": "https://ikwilhuren.nu/object/utrecht-3544pw-352-hogeweide-9fb56c4c04c5add744bee609ff634963",
+   "verdict": "nein: zu teuer",
+   "when": "26.11. 17:39"
+  },
   {
    "facts": "2.100 € · 68 m² · 2 SZ",
    "label": "Royaards van den Hamkade",
@@ -708,7 +727,7 @@
    "fails": 0
   },
   "HouseHunting": {
-   "empty": 0,
+   "empty": 1,
    "fails": 0
   },
   "Interhouse Utrecht": {
@@ -736,7 +755,7 @@
    "fails": 0
   },
   "Rotsvast": {
-   "empty": 6,
+   "empty": 7,
    "fails": 0
   },
   "Van der Huizen": {
