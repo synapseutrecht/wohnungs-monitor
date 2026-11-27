@@ -4,6 +4,15 @@ Automatisch erzeugt. Kriterien: Kaltmiete bis 1231 €, mindestens 1 Schlafzimme
 
 | Gefunden | Urteil | Miete · Fläche · Zimmer | Wohnung | Quelle |
 | --- | --- | --- | --- | --- |
+| 27.11. 17:25 | nein: zu teuer | 1.657 € · 61 m² · 2 SZ | [13 Jagerskade 10](https://ikwilhuren.nu/object/utrecht-3552tl-10-13-jagerskade-a25ff034a09cdb73676db939bec5ac8f) | MVGM ikwilhuren |
+| 27.11. 17:25 | nein: zu teuer | 1.371 € · 64 m² · 1 SZ | [Nijenoord 79](https://ikwilhuren.nu/object/utrecht-3552as-79-nijenoord-14c858d952d5069583b499df9d6840cb) | MVGM ikwilhuren |
+| 27.11. 17:25 | nein: zu teuer | 1.619 € · 106 m² · 2 SZ | [Houtrakgracht 330](https://ikwilhuren.nu/object/utrecht-3544sg-330-houtrakgracht-2d1816971ba3a5e76b24738e4a429213) | MVGM ikwilhuren |
+| 27.11. 17:25 | nein: zu teuer | 1.801 € · 137 m² · Zi. ? | [Melissekade 13](https://ikwilhuren.nu/object/utrecht-3544ct-13-melissekade-4a517942462ae6ad2ef23a8e83842da0) | MVGM ikwilhuren |
+| 27.11. 17:25 | nein: zu teuer | 1.376 € · 52 m² · 1 SZ | [C Kanaalstraat 34](https://ikwilhuren.nu/object/utrecht-3531ck-34-c-kanaalstraat-40c6c0e2305b43cd03d59bf58903212a) | MVGM ikwilhuren |
+| 27.11. 17:25 | nein: zu teuer | 1.528 € · 50 m² · 2 SZ | [Twellosebeeklaan 10](https://ikwilhuren.nu/object/utrecht-3521dt-10-twellosebeeklaan-f0ad2c968f9ecff775e9386301d884ab) | MVGM ikwilhuren |
+| 27.11. 17:25 | nein: zu teuer | 1.833 € · 77 m² · 2 SZ | [Eelderdiephof 9](https://ikwilhuren.nu/object/utrecht-3521dk-9-eelderdiephof-e9f5d0c824d5ac35b83d13d212783503) | MVGM ikwilhuren |
+| 27.11. 17:25 | nein: zu teuer | 1.410 € · 61 m² · 2 SZ | [van Sijpesteijnkade 121](https://ikwilhuren.nu/object/utrecht-3521ah-121-van-sijpesteijnkade-c847ec3e06c2254ab77a556092a74003) | MVGM ikwilhuren |
+| 27.11. 17:24 | nein: zu teuer | 2.250 € · 65 m² · 2 SZ | [Linschotensingel 1b](https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-679770-linschotensingel-1b) | Vastgoed Nederland |
 | 26.11. 17:40 | Projekt | – | [€ 1415 - € 1535](https://www.vesteda.com/en/utrecht-houses-for-rent) | Vesteda Utrecht |
 | 26.11. 17:39 | nein: zu teuer | 1.614 € · 115 m² · Zi. ? | [Hogeweide 352](https://ikwilhuren.nu/object/utrecht-3544pw-352-hogeweide-9fb56c4c04c5add744bee609ff634963) | MVGM ikwilhuren |
 | 26.11. 01:56 | nein: zu teuer | 2.100 € · 68 m² · 2 SZ | [Royaards van den Hamkade](https://interhouse.nl/en/vastgoed/huur/utrecht/appartement/royaards-van-den-hamkade) | Interhouse Utrecht |

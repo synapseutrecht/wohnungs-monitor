@@ -86,16 +86,24 @@
   "https://ikwilhuren.nu/object/utrecht-3512ab-70-vinkenburgstraat-cf99bcca79d9c6187efde2709917f308",
   "https://ikwilhuren.nu/object/utrecht-3513de-13-korenschoofstraat-4d4888487a3f07afb6c41f2441400c17",
   "https://ikwilhuren.nu/object/utrecht-3513de-81-korenschoofstraat-740b7aba556923c5f066acd09a8d43c5",
+  "https://ikwilhuren.nu/object/utrecht-3521ah-121-van-sijpesteijnkade-c847ec3e06c2254ab77a556092a74003",
   "https://ikwilhuren.nu/object/utrecht-3521ah-291-van-sijpesteijnkade-31a21d404c9d75bf257764a4c6b7901b",
   "https://ikwilhuren.nu/object/utrecht-3521db-64-rolderdiephof-ba822c69b5e725fb04f31b26633c4287",
   "https://ikwilhuren.nu/object/utrecht-3521dk-59-eelderdiephof-2a4e8741ada6ef7db10282eedef31bbb",
+  "https://ikwilhuren.nu/object/utrecht-3521dk-9-eelderdiephof-e9f5d0c824d5ac35b83d13d212783503",
+  "https://ikwilhuren.nu/object/utrecht-3521dt-10-twellosebeeklaan-f0ad2c968f9ecff775e9386301d884ab",
+  "https://ikwilhuren.nu/object/utrecht-3531ck-34-c-kanaalstraat-40c6c0e2305b43cd03d59bf58903212a",
   "https://ikwilhuren.nu/object/utrecht-3533cz-24-shakespearehof-f08f29b71c24079ba6b5a9973fee544c",
   "https://ikwilhuren.nu/object/utrecht-3533jc-195-schonberglaan-b6ee17c63a926f7991fe7545c1baef49",
   "https://ikwilhuren.nu/object/utrecht-3533jz-222-rachmaninoffplantsoen-937faa460edefdd5acd2949a81116ca0",
   "https://ikwilhuren.nu/object/utrecht-3543ec-325-musicallaan-8d271c992501edcd70bbb1cc62e4698f",
   "https://ikwilhuren.nu/object/utrecht-3543eh-20-lloyd-webberhof-0e0ff8c6d0251ac9aa029f40dd7465b5",
+  "https://ikwilhuren.nu/object/utrecht-3544ct-13-melissekade-4a517942462ae6ad2ef23a8e83842da0",
   "https://ikwilhuren.nu/object/utrecht-3544db-355-vuurvlindersingel-b5b57961ba2e14f3db08fee97db1bd0f",
   "https://ikwilhuren.nu/object/utrecht-3544pw-352-hogeweide-9fb56c4c04c5add744bee609ff634963",
+  "https://ikwilhuren.nu/object/utrecht-3544sg-330-houtrakgracht-2d1816971ba3a5e76b24738e4a429213",
+  "https://ikwilhuren.nu/object/utrecht-3552as-79-nijenoord-14c858d952d5069583b499df9d6840cb",
+  "https://ikwilhuren.nu/object/utrecht-3552tl-10-13-jagerskade-a25ff034a09cdb73676db939bec5ac8f",
   "https://ikwilhuren.nu/object/utrecht-3552tl-12-18-jagerskade-bbbbb1cfcceb780b72e977c015140b28",
   "https://ikwilhuren.nu/object/utrecht-3554bt-38-cornelis-roobolstraat-4b442abcbfaa8f5182f8de6c087c1a2b",
   "https://ikwilhuren.nu/object/utrecht-3561xa-94-vader-rijndreef-e850b3274a9b15fcdfb6622b880c2d64",
@@ -209,7 +217,8 @@
   "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-678814-st-janshovenstraat-2",
   "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-679155-albatrosstraat-32bs",
   "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-679163-kapelstraat-66",
-  "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-679199-maliebaan-53h"
+  "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-679199-maliebaan-53h",
+  "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-679770-linschotensingel-1b"
  ],
  "Vesteda Utrecht": [
   "0 Houses",
@@ -253,18 +262,23 @@
   "1 44 scheldestraat": "2026-11-27",
   "1 a oudwijkerveldstraat": "2026-11-27",
   "1 amsterdamsestraatweg": "2026-11-25",
+  "1 b linschotensingel": "2026-11-27",
   "1 boccacciopad": "2026-11-27",
   "1 c houtmarkt": "2026-11-27",
   "1 d houtmarkt": "2026-11-27",
   "1 hebe kohlbruggeweg": "2026-11-27",
   "1 plantenkaspad": "2026-11-27",
+  "10 13 jagerskade": "2026-11-27",
+  "10 twellosebeeklaan": "2026-11-27",
   "105 erroll garnerstraat": "2026-11-27",
   "119 b oudegracht": "2026-11-27",
   "12 18 jagerskade": "2026-11-24",
   "12 a westerdijk": "2026-11-27",
   "12 brigittenstraat": "2026-11-27",
   "121 eerste muntmeesterslaan": "2026-11-27",
+  "121 sijpesteijnkade": "2026-11-27",
   "13 korenschoofstraat": "2026-11-19",
+  "13 melissekade": "2026-11-27",
   "13 zwartewater": "2026-11-27",
   "145 eerste muntmeesterslaan": "2026-11-27",
   "149 c helmichstraat werner": "2026-11-25",
@@ -315,7 +329,9 @@
   "325 eykmanlaan": "2026-11-19",
   "325 musicallaan": "2026-11-19",
   "33 reitdiepstraat": "2026-11-27",
+  "330 houtrakgracht": "2026-11-27",
   "34 burgemeester reigerstraat": "2026-11-27",
+  "34 c kanaalstraat": "2026-11-27",
   "34 d effenstraat justus": "2026-11-27",
   "35 adolf b mayerlaan professor": "2026-11-27",
   "352 hogeweide": "2026-11-27",
@@ -343,15 +359,89 @@
   "7 dirck zuylenstraat": "2026-11-27",
   "70 vinkenburgstraat": "2026-11-25",
   "752 rooseveltlaan": "2026-11-27",
+  "79 nijenoord": "2026-11-27",
   "8 bs vlietstraat": "2026-11-19",
   "81 korenschoofstraat": "2026-11-19",
   "834 livingstonelaan": "2026-11-27",
   "87 h lange nieuwstraat": "2026-11-27",
+  "9 eelderdiephof": "2026-11-27",
   "90 c madridstraat": "2026-11-24",
   "94 rijndreef vader": "2026-11-26",
   "9875 galaxy tower": "2026-11-27"
  },
  "_funde": [
+  {
+   "facts": "1.657 € · 61 m² · 2 SZ",
+   "label": "13 Jagerskade 10",
+   "source": "MVGM ikwilhuren",
+   "url": "https://ikwilhuren.nu/object/utrecht-3552tl-10-13-jagerskade-a25ff034a09cdb73676db939bec5ac8f",
+   "verdict": "nein: zu teuer",
+   "when": "27.11. 17:25"
+  },
+  {
+   "facts": "1.371 € · 64 m² · 1 SZ",
+   "label": "Nijenoord 79",
+   "source": "MVGM ikwilhuren",
+   "url": "https://ikwilhuren.nu/object/utrecht-3552as-79-nijenoord-14c858d952d5069583b499df9d6840cb",
+   "verdict": "nein: zu teuer",
+   "when": "27.11. 17:25"
+  },
+  {
+   "facts": "1.619 € · 106 m² · 2 SZ",
+   "label": "Houtrakgracht 330",
+   "source": "MVGM ikwilhuren",
+   "url": "https://ikwilhuren.nu/object/utrecht-3544sg-330-houtrakgracht-2d1816971ba3a5e76b24738e4a429213",
+   "verdict": "nein: zu teuer",
+   "when": "27.11. 17:25"
+  },
+  {
+   "facts": "1.801 € · 137 m² · Zi. ?",
+   "label": "Melissekade 13",
+   "source": "MVGM ikwilhuren",
+   "url": "https://ikwilhuren.nu/object/utrecht-3544ct-13-melissekade-4a517942462ae6ad2ef23a8e83842da0",
+   "verdict": "nein: zu teuer",
+   "when": "27.11. 17:25"
+  },
+  {
+   "facts": "1.376 € · 52 m² · 1 SZ",
+   "label": "C Kanaalstraat 34",
+   "source": "MVGM ikwilhuren",
+   "url": "https://ikwilhuren.nu/object/utrecht-3531ck-34-c-kanaalstraat-40c6c0e2305b43cd03d59bf58903212a",
+   "verdict": "nein: zu teuer",
+   "when": "27.11. 17:25"
+  },
+  {
+   "facts": "1.528 € · 50 m² · 2 SZ",
+   "label": "Twellosebeeklaan 10",
+   "source": "MVGM ikwilhuren",
+   "url": "https://ikwilhuren.nu/object/utrecht-3521dt-10-twellosebeeklaan-f0ad2c968f9ecff775e9386301d884ab",
+   "verdict": "nein: zu teuer",
+   "when": "27.11. 17:25"
+  },
+  {
+   "facts": "1.833 € · 77 m² · 2 SZ",
+   "label": "Eelderdiephof 9",
+   "source": "MVGM ikwilhuren",
+   "url": "https://ikwilhuren.nu/object/utrecht-3521dk-9-eelderdiephof-e9f5d0c824d5ac35b83d13d212783503",
+   "verdict": "nein: zu teuer",
+   "when": "27.11. 17:25"
+  },
+  {
+   "facts": "1.410 € · 61 m² · 2 SZ",
+   "label": "van Sijpesteijnkade 121",
+   "source": "MVGM ikwilhuren",
+   "url": "https://ikwilhuren.nu/object/utrecht-3521ah-121-van-sijpesteijnkade-c847ec3e06c2254ab77a556092a74003",
+   "verdict": "nein: zu teuer",
+   "when": "27.11. 17:25"
+  },
+  {
+   "facts": "2.250 € · 65 m² · 2 SZ",
+   "label": "Linschotensingel 1b",
+   "source": "Vastgoed Nederland",
+   "url": "https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-679770-linschotensingel-1b",
+   "verdict": "nein: zu teuer",
+   "when": "27.11. 17:24"
+  },
   {
    "facts": "–",
    "label": "€ 1415 - € 1535",
@@ -727,7 +817,7 @@
    "fails": 0
   },
   "HouseHunting": {
-   "empty": 2,
+   "empty": 3,
    "fails": 0
   },
   "Interhouse Utrecht": {
@@ -755,7 +845,7 @@
    "fails": 0
   },
   "Rotsvast": {
-   "empty": 8,
+   "empty": 9,
    "fails": 0
   },
   "Van der Huizen": {
