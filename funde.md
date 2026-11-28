@@ -4,6 +4,10 @@ Automatisch erzeugt. Kriterien: Kaltmiete bis 1231 €, mindestens 1 Schlafzimme
 
 | Gefunden | Urteil | Miete · Fläche · Zimmer | Wohnung | Quelle |
 | --- | --- | --- | --- | --- |
+| 28.11. 01:11 | nein: zu teuer | 1.975 € · 84 m² · 3 SZ | [Spinozaweg](https://www.rotsvast.nl/en/huren/spinozaweg-utrecht-h01602468190) | Rotsvast |
+| 28.11. 01:11 | nein: zu teuer | 2.250 € · 65 m² · 2 SZ | [Linschotensingel](https://www.rotsvast.nl/en/huren/linschotensingel-utrecht-h01602467971) | Rotsvast |
+| 28.11. 01:11 | nein: zu teuer | 1.975 € · 84 m² · 3 SZ | [Spinozaweg 18](https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-679857-spinozaweg-18) | Vastgoed Nederland |
+| 28.11. 01:11 | nein: zu teuer | 2.475 € · 83 m² · 2 SZ | [Pieter Nieuwlandstraat 13](https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-679835-pieter-nieuwlandstraat-13) | Vastgoed Nederland |
 | 27.11. 17:25 | nein: zu teuer | 1.657 € · 61 m² · 2 SZ | [13 Jagerskade 10](https://ikwilhuren.nu/object/utrecht-3552tl-10-13-jagerskade-a25ff034a09cdb73676db939bec5ac8f) | MVGM ikwilhuren |
 | 27.11. 17:25 | nein: zu teuer | 1.371 € · 64 m² · 1 SZ | [Nijenoord 79](https://ikwilhuren.nu/object/utrecht-3552as-79-nijenoord-14c858d952d5069583b499df9d6840cb) | MVGM ikwilhuren |
 | 27.11. 17:25 | nein: zu teuer | 1.619 € · 106 m² · 2 SZ | [Houtrakgracht 330](https://ikwilhuren.nu/object/utrecht-3544sg-330-houtrakgracht-2d1816971ba3a5e76b24738e4a429213) | MVGM ikwilhuren |
