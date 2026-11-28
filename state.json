@@ -80,7 +80,8 @@
   "https://interhouse.nl/en/vastgoed/huur/utrecht/appartement/hogelanden-w-z",
   "https://interhouse.nl/en/vastgoed/huur/utrecht/appartement/parijsboulevard",
   "https://interhouse.nl/en/vastgoed/huur/utrecht/appartement/royaards-van-den-hamkade",
-  "https://interhouse.nl/en/vastgoed/huur/utrecht/appartement/westerdijk"
+  "https://interhouse.nl/en/vastgoed/huur/utrecht/appartement/westerdijk",
+  "https://interhouse.nl/en/vastgoed/huur/utrecht/woning/van-der-mondestraat"
  ],
  "MVGM ikwilhuren": [
   "https://ikwilhuren.nu/object/utrecht-3512ab-70-vinkenburgstraat-cf99bcca79d9c6187efde2709917f308",
@@ -376,6 +377,14 @@
   "9875 galaxy tower": "2026-11-28"
  },
  "_funde": [
+  {
+   "facts": "3.250 € · 105 m² · 4 SZ",
+   "label": "van der Mondestraat",
+   "source": "Interhouse Utrecht",
+   "url": "https://interhouse.nl/en/vastgoed/huur/utrecht/woning/van-der-mondestraat",
+   "verdict": "nein: zu teuer",
+   "when": "28.11. 16:18"
+  },
   {
    "facts": "1.975 € · 84 m² · 3 SZ",
    "label": "Spinozaweg",
@@ -855,7 +864,7 @@
    "fails": 0
   },
   "HouseHunting": {
-   "empty": 4,
+   "empty": 5,
    "fails": 0
   },
   "Interhouse Utrecht": {

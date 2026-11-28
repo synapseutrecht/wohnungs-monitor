@@ -4,6 +4,7 @@ Automatisch erzeugt. Kriterien: Kaltmiete bis 1231 €, mindestens 1 Schlafzimme
 
 | Gefunden | Urteil | Miete · Fläche · Zimmer | Wohnung | Quelle |
 | --- | --- | --- | --- | --- |
+| 28.11. 16:18 | nein: zu teuer | 3.250 € · 105 m² · 4 SZ | [van der Mondestraat](https://interhouse.nl/en/vastgoed/huur/utrecht/woning/van-der-mondestraat) | Interhouse Utrecht |
 | 28.11. 01:11 | nein: zu teuer | 1.975 € · 84 m² · 3 SZ | [Spinozaweg](https://www.rotsvast.nl/en/huren/spinozaweg-utrecht-h01602468190) | Rotsvast |
 | 28.11. 01:11 | nein: zu teuer | 2.250 € · 65 m² · 2 SZ | [Linschotensingel](https://www.rotsvast.nl/en/huren/linschotensingel-utrecht-h01602467971) | Rotsvast |
 | 28.11. 01:11 | nein: zu teuer | 1.975 € · 84 m² · 3 SZ | [Spinozaweg 18](https://www.vastgoednederland.nl/huurwoningen/utrecht/woning-679857-spinozaweg-18) | Vastgoed Nederland |
